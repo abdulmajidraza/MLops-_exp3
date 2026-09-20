@@ -1,2 +1,3 @@
-# MLops-_exp3
-mloop_exp-3
+# Experiment 3
+
+DVC-based experiment project.
